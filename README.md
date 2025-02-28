@@ -383,7 +383,7 @@ Mention who the product is for in one sentence.
 Example:
 "Ideal for small to medium-sized teams looking to improve productivity and collaboration."
 
-4. Quick Start or Call to Action
+Quick Start or Call to Action
 Provide a brief instruction or link to get started.
 Example:
 "Get started by cloning the repository and following the setup instructions below."
